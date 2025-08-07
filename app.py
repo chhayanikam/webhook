@@ -1,4 +1,4 @@
-#demo app for web hook
+#demo app for web hook using python code
 from flask import Flask, request, jsonify
 app = Flask(__name__)
 
